@@ -7,7 +7,7 @@ Out of Memory is committed to protecting your privacy. This Privacy Policy expla
 
 **Data Stored on Your Device:** The game saves only your settings and unlock progress locally on your device. This data never leaves your device, and it is deleted when you delete the app.
 
-**Third-Party Services:** Our app does not use any third-party analytics, advertising, or tracking services that collect your data. The app contains no ads. It offers one optional in-app purchase (the full version), which is processed entirely by Apple through the App Store; we do not receive or store your payment details or Apple ID.
+**Third-Party Services:** Our app does not use any third-party analytics, advertising, or tracking services that collect your data. The app contains no ads. It offers one optional in-app purchase (the full version), which is processed entirely by Apple through the App Store; we do not receive or store your payment details or Apple ID. If you are signed in to Game Center, your scores and achievements are sent to Apple's Game Center to show leaderboards and achievements; this is handled by Apple under Apple's privacy policy, and we do not receive or store it.
 
 ---
 
@@ -18,7 +18,7 @@ Out of Memory는 사용자의 개인정보를 소중하게 보호합니다. 본 
 
 **기기에 저장되는 데이터:** 게임은 설정과 해금 진행 상황만 사용자의 기기에 로컬로 저장합니다. 이 데이터는 기기 밖으로 전송되지 않으며, 앱을 삭제하면 함께 삭제됩니다.
 
-**제3자 서비스:** 본 앱은 데이터를 수집하는 제3자 분석, 광고 또는 추적 서비스를 사용하지 않습니다. 앱 내 광고는 없습니다. 선택 사항인 인앱 구매(전체 버전) 1종이 있으며, 결제는 전적으로 Apple의 App Store를 통해 처리됩니다. 개발자는 결제 정보나 Apple ID를 받거나 저장하지 않습니다.
+**제3자 서비스:** 본 앱은 데이터를 수집하는 제3자 분석, 광고 또는 추적 서비스를 사용하지 않습니다. 앱 내 광고는 없습니다. 선택 사항인 인앱 구매(전체 버전) 1종이 있으며, 결제는 전적으로 Apple의 App Store를 통해 처리됩니다. 개발자는 결제 정보나 Apple ID를 받거나 저장하지 않습니다. Game Center에 로그인한 경우 리더보드와 업적 표시를 위해 점수와 업적이 Apple의 Game Center로 전송됩니다. 이 정보는 Apple의 개인정보 처리방침에 따라 Apple이 처리하며, 개발자는 받거나 저장하지 않습니다.
 
 ---
 © 2026 JimmyTheGenius. All rights reserved.
